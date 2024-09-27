@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leon preferably "leo"
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning computer science
-- 📚 Im intrested in doing T levels for science
+- 📚 Im interested in doing T levels for science
 
 
 <!---
